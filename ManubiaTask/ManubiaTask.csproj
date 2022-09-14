@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classifier.cs" />
+    <Compile Include="Constant.cs" />
     <Compile Include="Content.cs" />
     <Compile Include="FarmasiRO.cs" />
     <Compile Include="Logger.cs" />
